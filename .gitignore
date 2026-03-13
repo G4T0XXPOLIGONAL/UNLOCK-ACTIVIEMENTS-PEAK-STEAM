@@ -1,0 +1,6 @@
+# Ignorar pastas de build
+[Bb]in/
+[Oo]bj/
+.vscode/
+.vs/
+*.user
